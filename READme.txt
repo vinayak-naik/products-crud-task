@@ -15,4 +15,4 @@ Environment Variables:
 
 NODE_ENV="production"
 JWT_SECRET="vinayak"
-DATABASE_CONNECTION="mongodb://127.0.0.1:27017/product-crud"
+DATABASE_CONNECTION="mongodb://127.0.0.1:27017/products-crud"

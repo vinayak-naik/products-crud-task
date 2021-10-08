@@ -7,7 +7,7 @@ import productRoutes from "./src/routes/productRoutes";
 import cors from "cors";
 
 dotenv.config();
-connectDB();
+connectDB(); 
 
 const app = express();
 
